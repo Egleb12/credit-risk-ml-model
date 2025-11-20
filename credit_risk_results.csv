@@ -1,0 +1,12 @@
+company,default_risk,credit_risk_score
+AAPL,0,70.33
+MSFT,0,92.0
+COST,0,77.67
+JPM,0,83.0
+JNJ,0,61.67
+XOM,0,48.33
+RADQ,1,9.33
+SAVE,1,9.33
+PTON,1,16.33
+CVNA,1,24.33
+BBBYQ,1,9.33
