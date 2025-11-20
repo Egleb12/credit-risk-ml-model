@@ -83,23 +83,9 @@ Jupyter Notebook
 
 Logistic Regression (ML)
 
-🎯 Why This Project Matters
-
-Credit risk modeling is widely used in:
-
-Investment banking
-
-Private credit
-
-Hedge funds
-
-Credit rating analysis
-
-Corporate finance
-
-Risk management
 
 This project demonstrates:
+
 
 ✔ Financial statement analysis
 ✔ Data engineering
@@ -107,8 +93,6 @@ This project demonstrates:
 ✔ Real machine learning implementation
 ✔ Predictive scoring
 ✔ Model interpretation
-
-Perfect for showcasing quantitative finance + programming skills to recruiters.
 
 
 🧩 Future Improvements
